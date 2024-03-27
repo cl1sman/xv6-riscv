@@ -13,7 +13,7 @@ int main(int argc, char *argv[]){
 		sleep(time);
 		exit(0);
 	} else {
-		printf("argument is wrong\n");
+		printf("Argument is wrong\n");
 		exit(1);
 	}
 	return 0;
